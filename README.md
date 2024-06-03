@@ -20,8 +20,3 @@ Each notebook is divided into three main sections:
 1. **Loading Dataset**
 2. **Fine-Tuning**
 3. **Testing**
-
-### Important Notes
-
-- After fine-tuning, we have uploaded our resulting models on our [Hugging Face repository](https://huggingface.co/BaioSbubens).
-- If you want to test the models, it is sufficient to run ONLY the first and third sections of the notebooks. The testing section automatically fetches the fine-tuned models from the Hugging Face repository, bypassing the need to redo the fine-tuning process.
