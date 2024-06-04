@@ -1,6 +1,6 @@
-# NLP_Project
+# Exploring-SqueezeBERT
 
-This repository contains three notebook files, each dedicated to a specific natural language processing task:
+The folder *Codes* contains three notebook files, each dedicated to a specific natural language processing task:
 
 1. **Sequence_Classification**
    - This notebook contains the code for fine-tuning models on a news article sequence classification task. The models are fine-tuned using the [News Articles Categorization dataset](https://huggingface.co/datasets/valurank/News_Articles_Categorization).
