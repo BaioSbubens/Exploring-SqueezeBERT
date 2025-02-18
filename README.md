@@ -1,5 +1,7 @@
 # Exploring-SqueezeBERT
 
+Mobile devices (especially smartphones) stand out as crucial platforms for implementing NLP models. However, smaller devices cannot afford the enormous computational costs associated with existing high-accuracy NLP models, such as BERT and RoBERTa. We propose an analysis of the SqueezeBERT model, starting from the results presented in some papers that address computer vision techniques applied to NLP tasks.
+
 The folder *Codes* contains three notebook files, each dedicated to a specific natural language processing task:
 
 1. **Sequence_Classification**
